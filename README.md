@@ -11,9 +11,9 @@
 
 ```javascript
 const mar = {
-  code: ['Javascript', 'Kotlin', 'Python', 'Java', 'C#', 'Swift', 'Dart', 'PHP'],
-  tools: ['React', 'Angular', 'Laravel', 'Node', 'Django'],
-  technologies: ['Docker', 'AWS', 'Linux'],
+  code: [Javascript, Kotlin, Python, Java, C#, Swift, Dart, PHP],
+  tools: [React, Angular, Laravel, Node, Django],
+  technologies: [Docker, AWS, Linux],
   languages: ['spanish', 'english'],
   hobbies: {
               music: ['rock','pop','metal','classic','reggaeton'],
